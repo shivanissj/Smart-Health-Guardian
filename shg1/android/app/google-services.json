@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960688180177",
+    "project_id": "smarthealthguardian-22ad0",
+    "storage_bucket": "smarthealthguardian-22ad0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960688180177:android:e5371dc352346c3d1aaef0",
+        "android_client_info": {
+          "package_name": "com.example.shg1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh3_xPJA9qYHSQXGPlRcvPYaKh3JtcrzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960688180177:android:c518e9d21d27b86c1aaef0",
+        "android_client_info": {
+          "package_name": "com.smarthealthguardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh3_xPJA9qYHSQXGPlRcvPYaKh3JtcrzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

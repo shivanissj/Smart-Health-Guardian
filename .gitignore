@@ -1,0 +1,27 @@
+
+# Node.js dependencies
+Backend/node_modules/
+
+# Firebase service account credentials
+Backend/firebase-adminsdk.json
+**/*firebase-adminsdk*.json
+**/*serviceAccount*.json
+
+# Environment secrets
+.env
+.env.*
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Build outputs
+build/
+dist/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
